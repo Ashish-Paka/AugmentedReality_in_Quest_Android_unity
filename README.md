@@ -1,4 +1,4 @@
-# AR & VR Demo for Meta Quest 2 using Unity and MQDH
+# AR world and application development using Unity and MQDH
 
 This repository showcases an **Augmented Reality (AR)** demo built in **Unity** for the **Meta Quest 2**, using the **Meta Quest Developer Hub (MQDH)** for deployment and real-time debugging. By blending VR pass-through and AR concepts, the project demonstrates how the **player’s physical space** (real environment) can become the **game space** for interactive, mixed reality experiences. The **AR.apk** and accompanying videos (`ARUnity.mp4`, `ARQuest.mp4`) illustrate the Unity setup and final application running on the Quest.
 
